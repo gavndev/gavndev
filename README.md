@@ -1,10 +1,11 @@
 # What's up?
 
-## 👋 I'm Gavin Griggs
+**👋 I'm Gavin Griggs**
 
-Some of my favorite things have come from tech, now, I can create them
+Truly, some of my favorite things have come from tech, now, I can create them. **Simple as that.**
 
-Simple as that.
+Aspiring to become a full-stack developer, with UI/UX design in my pocket as well.
 
-## Check my portfolio for more information about me... 
-### Oh and my work, of course!
+I specialize in design and web development, with some OOP here and there.
+
+## Check my portfolio for more information about me, oh and my work, of course!
