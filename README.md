@@ -8,4 +8,4 @@ Aspiring to become a full-stack developer, with UI/UX design in my pocket as wel
 
 I specialize in design and web development, with some OOP here and there.
 
-## Check my portfolio for more information about me, oh and my work, of course!
+**Check my portfolio for more information about me, oh and my work, of course!**
